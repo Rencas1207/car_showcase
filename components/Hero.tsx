@@ -30,8 +30,8 @@ const Hero = () => {
             className="object-contain"
             priority
           />
-          <div className="hero__image-overlay" />
         </div>
+        <div className="hero__image-overlay" />
       </div>
     </div>
   );
